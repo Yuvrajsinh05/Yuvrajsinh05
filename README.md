@@ -2,7 +2,7 @@
 
 
 # Hello, I am Yuvraj (ツ) 👋
-[![Github](https://img.shields.io/github/followers/Yuvrajsinh05?label=Follow&style=social)](https://github.com/HUSS41N)
+[![Github](https://img.shields.io/github/followers/Yuvrajsinh05?label=Follow&style=social)](https://github.com/Yuvrajsinh05)
 ![Profile Count](https://komarev.com/ghpvc/?username=Yuvrajsinh05) 
 
 <a href="https://github.com/HUSS41N">
