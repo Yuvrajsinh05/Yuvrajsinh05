@@ -14,7 +14,7 @@
 I'm a full stack developer based in Ahemdabad,India with determination for delivering end-to-end solutions. I'm passionate about improving the lives of others through my products and am constantly looking to learn new things everyday.
 <br/>
 I mostly prefer  Javascript , Java & Python (till now 😊) as Programming Language. 
-I enjoy working with ReactJS, React Native, NextJS, Nodejs, REST API's, Mongodb ,Unity and much more.
+I enjoy working with ReactJS, React Native, NextJS, Nodejs, REST API's, Mongodb , and much more.
 
 ## Find me around the web 🌎:
 - Connect me on <a href="https://www.linkedin.com/in/yuvrajsinh-jadav-2041a822b/">LinkedIn</a> 💼
