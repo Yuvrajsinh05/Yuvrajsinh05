@@ -2,11 +2,10 @@
 
 
 # Hello, I am Yuvraj (ツ) 👋
-[![Github](https://img.shields.io/github/followers/Yuvrajsinh05?label=Follow&style=social)](https://github.com/Yuvrajsinh05)
-![Profile Count](https://komarev.com/ghpvc/?username=Yuvrajsinh05) 
+
 
 <a href="https://github.com/HUSS41N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvrajsinh05&show_icons=true&theme=merko&count_private=true" alt="HUSS41N's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvrajsinh05&show_icons=true&theme=merko&count_private=true" alt="Yuvrajsinh's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsinh05&theme=merko&layout=compact" alt="Yuvrajsinh's github top languages" />
 </a>
 <br/>
