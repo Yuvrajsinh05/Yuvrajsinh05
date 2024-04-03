@@ -25,10 +25,14 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 | NextJs       | DiscordBot      | Real-time Access Logs       | REST API              |
 | TypeScript   |                 | HTTP & Network Protocols    | Swagger               |
 |              |                 |                             | Postman               |
-|              |                 |                             | AWS                   |
-|              |                 |                             | Kali tools            |
+|              |                 |                             | Hosting               |
 |              |                 |                             | Interacting with APIs |
+|              |                 |                             | Google Cloud          |
+|              |                 |                             | OpenAPI               |
+|              |                 |                             | Images API            |
+|              |                 |                             | Pexels API            |
 |              |                 |                             | And more!             |
+
 
 
 
