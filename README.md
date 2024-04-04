@@ -26,10 +26,8 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 | TypeScript   |                 | HTTP & Network Protocols    | Swagger               |
 | accessibility|                 |                             | Postman               |
 | UI / UX      |                 |                             | Hosting               |
-| And More!    |                 |                             | Interacting with APIs |
-|              |                 |                             | Google Cloud          |
+| And More!    |                 |                             | Google Cloud API      |
 |              |                 |                             | OpenAPI               |
-|              |                 |                             | Images API            |
 |              |                 |                             | Pexels API            |
 |              |                 |                             | And more!             |
 
