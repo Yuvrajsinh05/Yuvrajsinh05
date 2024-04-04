@@ -18,15 +18,15 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 
 | Frontend     | Backend         | Security & Testing          | Tools & Others        |
 |--------------|-----------------|-----------------------------|-----------------------|
-| JavaScript   | NodeJs          | Security                    | GitHub                |
-| ReactJs      | ExpressJs       | Testing                     | Docker                |
+| JavaScript   | NodeJs          | Authorization               | GitHub                |
+| ReactJs      | ExpressJs       | encryption                  | Docker                |
 | ReduxJs      | MongoDB (NoSQL) | Authentication Middleware   | Deployment            |
 | Material-Ui  | WebSocket       | Network Monitoring          | CI/CD                 |
 | NextJs       | DiscordBot      | Real-time Access Logs       | REST API              |
 | TypeScript   |                 | HTTP & Network Protocols    | Swagger               |
-|              |                 |                             | Postman               |
-|              |                 |                             | Hosting               |
-|              |                 |                             | Interacting with APIs |
+| accessibility|                 |                             | Postman               |
+| UI / UX      |                 |                             | Hosting               |
+| And More!    |                 |                             | Interacting with APIs |
 |              |                 |                             | Google Cloud          |
 |              |                 |                             | OpenAPI               |
 |              |                 |                             | Images API            |
