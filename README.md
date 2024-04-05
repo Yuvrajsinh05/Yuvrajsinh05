@@ -14,6 +14,10 @@ And hey, speaking of bots, did you hear about the programmer who got stuck in th
 
 Basically, I'm determined to become a versatile developer who can handle the challenges of today's tech world, come up with new ideas, and make a real impact in the industry.
 
+[Current Ventures: A Snapshot](https://www.canva.com/design/DAGBcn-mxBI/L4pVYX-JusGL0zHJUrSOZQ/view?utm_content=DAGBcn-mxBI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
+
 ## Skills
 
 | Frontend     | Backend         | Security & Testing          | Tools & Others        |
