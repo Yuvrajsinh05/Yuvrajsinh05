@@ -25,20 +25,20 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 | Frontend     | Backend         | Security & Testing          | Tools & Others        |
 |--------------|-----------------|-----------------------------|-----------------------|
 | JavaScript   | NodeJs          | Authorization               | GitHub                |
-| ReactJs      | ExpressJs       | encryption                  | Docker                |
-| ReduxJs      | MongoDB (NoSQL) | Authentication Middleware   | Deployment            |
+| React/Vite   | ExpressJs       | encryption                  | Docker                |
+| Redux/Context| MongoDB (NoSQL) | Authentication Middleware   | Deployment            |
 | Material-Ui  | WebSocket       | Network Monitoring          | CI/CD                 |
 | NextJs       | DiscordBot      | Real-time Access Logs       | REST API              |
 | TypeScript   |                 | HTTP & Network Protocols    | Swagger               |
 | accessibility|                 |                             | Postman               |
 | UI / UX      |                 |                             | Hosting               |
-| And More!    |                 |                             | Google Cloud API      |
-|              |                 |                             | OpenAPI               |
-|              |                 |                             | Pexels API            |
-|              |                 |                             | And more!             |
-
-
-
+| WebPack      |                 |                             | Liner EsLint          |
+| ESBuild      |                 |                             | Prettier              |
+| JSX          |                 |                             | Pexels API            |
+| Babel        |                 |                             | Google Cloud API      |
+| PWA          |                 |                             | OpenAPI               |
+|              |                 |                             | NPM && YARN           |
+|              |                 |                             |                       | 
 
 ## Let's Build Something Amazing Together!
 
