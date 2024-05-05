@@ -32,7 +32,7 @@ Basically, I'm determined to become a versatile developer who can handle the cha
 | TypeScript   |                 | HTTP & Network Protocols    | Swagger               |
 | accessibility|                 |                             | Postman               |
 | UI / UX      |                 |                             | Hosting               |
-| WebPack      |                 |                             | Liner EsLint          |
+| WebPack      |                 |                             | Linter EsLint         |
 | ESBuild      |                 |                             | Prettier              |
 | JSX          |                 |                             | Pexels API            |
 | Babel        |                 |                             | Google Cloud API      |
