@@ -1,52 +1,43 @@
-# Welcome to Yuvrajsinh's GitHub Profile! 👋 
+# Yuvrajsinh Jadav
 
-([Current Ventures A Snapshot](https://www.canva.com/design/DAGBcn-mxBI/L4pVYX-JusGL0zHJUrSOZQ/view?utm_content=DAGBcn-mxBI&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+**Full-stack + AI engineer who ships complete products solo** — web, mobile, backend, and production agentic-AI systems.
 
-## About Me
+~500k lines across ~10 shipped products, built end to end by one engineer: schema → backend → UI → deploy. I specialize in **agentic AI with real guardrails** — LLM systems wired into production with the safety and reliability that keeps them trustworthy at the edges — with founding-engineer velocity across the rest of the stack.
 
-Hey there!
+📫 devyuvrajsinh@gmail.com · 📍 India (remote) · 🌐 legendev.org
 
-I'm Yuvraj (ツ), a coding enthusiast who loves learning new stuff. I started with making websites and now I'm exploring deeper into web development, going from browsers to server stuff.
+---
 
-Right now, I'm super interested in web3, which includes cool things like blockchain and smart contracts. I'm excited to keep up with all the new tech changes.
+## 🔧 Selected work (public)
 
-What makes me different is my drive to go beyond just basic bots. I'm all about improving my skills, especially in competitive programming, so I can solve tricky problems in creative ways.
+**[VRON](https://github.com/Yuvrajsinh05/vron)** — agentic org-intelligence layer
+A ReAct tool-use loop over the Claude CLI: it investigates live system/project state through read-only tools, then answers. Guardrails live in the executor (SQLite `mode=ro`, step caps) so a hallucinating model *cannot* mutate a project. FastAPI + WebSocket streaming, psutil telemetry, canvas-rendered live map.
+`Python · FastAPI · WebSockets · asyncio · structured tool-use · SQLite`
 
-And hey, speaking of bots, did you hear about the programmer who got stuck in the shower? He couldn't find the 'sudo' soap! 😄
+**[ToCoach](https://github.com/Yuvrajsinh05/tocoach)** — on-device AI voice coach
+Two-way spoken conversations with an AI persona, coaching feedback after. The speech loop runs **entirely on-device**: local Whisper STT (ONNX) → Claude reasoning → Kokoro TTS, behind a stateful behavioral engine. Electron desktop app.
+`Electron · React · Whisper · Kokoro · SQLite`
 
-Basically, I'm determined to become a versatile developer who can handle the challenges of today's tech world, come up with new ideas, and make a real impact in the industry.
+**[leadgen](https://github.com/Yuvrajsinh05/leadgen)** — zero-paid lead-gen platform
+Scrapes ICP-fit leads from free sources, scores them by revenue potential, enriches a named decision-maker, runs deliverability-engineered 1:1 outreach (bounce kill-switch, suppression, MX pre-verify), triages replies with a deterministic no-LLM classifier, and surfaces a live CRM. Multi-agent architecture.
+`Flask · Next.js · Python · multi-armed-bandit source selection · IMAP`
 
+---
 
+## 🧰 Stack
 
+**Languages** JavaScript/TypeScript · Python
+**Frontend** React · Next.js · Electron · React Native
+**Backend** Node/Express · FastAPI · Flask · WebSockets · REST
+**Data** PostgreSQL · MongoDB · SQLite
+**AI** Agentic loops (ReAct) · structured tool-use · on-device STT/TTS (Whisper, Kokoro) · guardrail design · RAG-vs-deterministic judgment
+**Infra** Docker · CI/CD · Stripe/Razorpay · Twilio · socket.io
 
+## 📦 Also shipped
+Enterprise procurement SaaS (~286k LOC) · a React Native app live on the App Store (Twilio + real-time) · a salon marketplace · healthcare platform + patient app.
 
-## Skills
+*Client products are private — happy to walk through the architecture on a call.*
 
-| Frontend     | Backend         | Security & Testing          | Tools & Others        |
-|--------------|-----------------|-----------------------------|-----------------------|
-| JavaScript   | NodeJs          | Authorization               | GitHub                |
-| React/Vite   | ExpressJs       | encryption                  | Docker                |
-| Redux/Context| MongoDB (NoSQL) | Authentication Middleware   | Deployment            |
-| Material-Ui  | WebSocket       | Network Monitoring          | CI/CD                 |
-| NextJs       | DiscordBot      | Real-time Access Logs       | REST API              |
-| TypeScript   |                 | HTTP & Network Protocols    | Swagger               |
-| accessibility|                 |                             | Postman               |
-| UI / UX      |                 |                             | Hosting               |
-| WebPack      |                 |                             | Linter EsLint         |
-| ESBuild      |                 |                             | Prettier              |
-| JSX          |                 |                             | Pexels API            |
-| Babel        |                 |                             | Google Cloud API      |
-| PWA          |                 |                             | OpenAPI               |
-|              |                 |                             | NPM && YARN           |
-|              |                 |                             |                       | 
+---
 
-## Let's Build Something Amazing Together!
-
-I'm passionate about coding, and I've honed my skills through project-based learning. As a self-made developer, I thrive on tackling challenges and continuously improving. With experience in DevOps, including working with GitHub bots, along with a solid understanding of computer networking and monitoring, I excel at problem-solving. Let's collaborate and create something extraordinary!
-
-## Connect with Me
-
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvrajsinh-jadav-2041a822b/)  
-📧 Reach out to me at [Gmail](mailto:yuvrajsinh73598@gmail.com)
-
-
+⚡ Available for remote roles and contract work.
