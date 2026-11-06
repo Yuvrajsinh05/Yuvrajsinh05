@@ -8,17 +8,17 @@
 
 ---
 
-## 🔧 Selected work (public)
+## 🔧 Selected work
 
-**[VRON](https://github.com/Yuvrajsinh05/vron)** — agentic org-intelligence layer
+**VRON** — agentic org-intelligence layer
 A ReAct tool-use loop over the Claude CLI: it investigates live system/project state through read-only tools, then answers. Guardrails live in the executor (SQLite `mode=ro`, step caps) so a hallucinating model *cannot* mutate a project. FastAPI + WebSocket streaming, psutil telemetry, canvas-rendered live map.
 `Python · FastAPI · WebSockets · asyncio · structured tool-use · SQLite`
 
-**[ToCoach](https://github.com/Yuvrajsinh05/tocoach)** — on-device AI voice coach
+**ToCoach** — on-device AI voice coach
 Two-way spoken conversations with an AI persona, coaching feedback after. The speech loop runs **entirely on-device**: local Whisper STT (ONNX) → Claude reasoning → Kokoro TTS, behind a stateful behavioral engine. Electron desktop app.
 `Electron · React · Whisper · Kokoro · SQLite`
 
-**[leadgen](https://github.com/Yuvrajsinh05/leadgen)** — zero-paid lead-gen platform
+**leadgen** — zero-paid lead-gen platform
 Scrapes ICP-fit leads from free sources, scores them by revenue potential, enriches a named decision-maker, runs deliverability-engineered 1:1 outreach (bounce kill-switch, suppression, MX pre-verify), triages replies with a deterministic no-LLM classifier, and surfaces a live CRM. Multi-agent architecture.
 `Flask · Next.js · Python · multi-armed-bandit source selection · IMAP`
 
